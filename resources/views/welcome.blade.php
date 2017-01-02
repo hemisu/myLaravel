@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Heloo lavaral！I`m hemisu.</div>
+                <div class="title">Hello lavaral！I`m hemisu.</div>
             </div>
         </div>
     </body>
